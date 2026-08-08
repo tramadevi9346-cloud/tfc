@@ -1,0 +1,6 @@
+Time=0    RoadA=001 RoadB=100
+Time=10   RoadA=010 RoadB=100
+Time=20   RoadA=100 RoadB=001
+Time=30   RoadA=100 RoadB=010
+Time=40   RoadA=001 RoadB=100
+...
